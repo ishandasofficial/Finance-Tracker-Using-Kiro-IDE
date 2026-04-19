@@ -1,2 +1,31 @@
-# Finance-Tracker-Using-Kiro-IDE
-A lightweight AI-powered financial tracker built with Kiro, enabling users to log expenses, manage budgets, and get real-time insights through a chat-driven interface. Designed for simplicity, it helps users quickly understand their financial status and make smarter money decisions.
+# 💰 Finance Tracker
+
+A lightweight app to track income, expenses, and manage personal finances efficiently.
+
+
+
+## 🚀 Features
+
+* Add & categorize transactions
+* Track income vs expenses
+* View history by date
+* Basic insights into spending
+
+  
+
+## 🛠️ Tech Stack
+
+HTML , CSS , JavaScript and PostgreSQL.
+
+
+
+## ⚙️ Setup
+
+git clone https://github.com/ishandasofficial/Finance-Tracker-Using-Kiro-IDE.git
+cd finance-tracker
+
+
+
+## 📄 License
+
+The UnLicense
